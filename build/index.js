@@ -1,0 +1,1 @@
+console.log("Charitable Comments Widget Block loaded!");
